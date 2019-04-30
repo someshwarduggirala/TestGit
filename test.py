@@ -4,3 +4,6 @@ print (len(a))
 
 dic={'a':1,'b':2}
 print (dic)
+
+for list in a:
+    print (list)
